@@ -3,7 +3,7 @@ This repository contains the necessary files for installing MacOS Big Sur 11.3 o
 
 | Device      	| Name                                                	| Status  	|
 |-------------	|-----------------------------------------------------	|---------	|
-| CPU         	| Intel® Core™ i5 7300HQ Processor                    	| Working 	|
+| CPU         	| Intel® Core™ i7 7700HQ Processor                    	| Working 	|
 | RAM         	| Samsung DDR4 8GB 2400 MHz                           	| Working 	|
 | GPU         	| Intel® HD 630 1.5Gb                                 	| Working 	|
 | GPU         	| Nvidia GeForce GTX 1050 4GB                         	| Passive 	|
