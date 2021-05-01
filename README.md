@@ -1,5 +1,5 @@
 # Asus_FX553VD_OpenCore_BigSur
-This repository contains the necessary files for installing MacOS Big Sur 11.3 on an Asus FX553VD laptop.
+This repository contains the necessary EFI files for installing MacOS Big Sur 11.3 on an Asus FX553VD laptop.
 
 | Device      	| Name                                                	| Status  	|
 |-------------	|-----------------------------------------------------	|---------	|
