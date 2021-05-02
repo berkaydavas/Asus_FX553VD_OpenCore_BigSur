@@ -18,4 +18,4 @@ This repository contains the necessary EFI files for installing MacOS Big Sur 11
 | Battery     	| 4 Cells Battery 3350mAh                             	| Working 	|
 | USB         	| USB 3.0 Bus                                         	| Working 	|
 | HDMI        	| Intel® HDMI HD630                                   	| Working 	|
-| Touchpad    	| ELAN 1200                                           	| Passive 	|
+| Touchpad    	| ELAN 1200                                           	| Working 	|
